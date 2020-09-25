@@ -10,4 +10,5 @@ Wei Zhi and Li Li (https://doi.org/10.1021/acs.est.0c01340)
 
 **Land use classification**. The sites were classified based on the percentage of major land use according to the following criteria from USGS. Agricultural sites have > 50% agricultural land and <= 5% urban land; urban sites have > 25% urban land and <= 25% agricultural land; undeveloped sites have <= 5% urban land and <= 25% agricultural land; all other combinations of urban, agricultural, and undeveloped land percent are classified as mixed land use. Land use in the NAWQA sites were from Spahr, et al. (2010). Land use in the WQW sites was compiled from multiple sources including EPA water quality reports, USGS watershed management plan, USDA watershed assessment report, and the National Land Cover Database. Out of the 228 sites, the number of agriculture, mixed, undeveloped, and urban sites are 61, 78, 49, and 40, respectively. 
 
+
 ***Supporting Information including detailed site information, nitrate concentration, and C-Q slope b.***
