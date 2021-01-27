@@ -12,3 +12,7 @@ Wei Zhi and Li Li (https://doi.org/10.1021/acs.est.0c01340)
 
 
 ***Supporting Information including detailed site information, nitrate concentration, and C-Q slope b.***
+
+
+
+**Reference**: **Zhi, W.**, & Li, L. (2020). The shallow and deep hypothesis: Subsurface vertical chemical contrasts shape nitrate export patterns from different land uses. *Environmental Science & Technology*, 54(19), 11915-11928.
