@@ -3,6 +3,11 @@
 **Zhi, W.**, & Li, L. (2020). The shallow and deep hypothesis: Subsurface vertical chemical contrasts shape nitrate export patterns from different land uses. *Environmental Science & Technology*, 54(19), 11915-11928. [doi: 10.1021/acs.est.0c01340](https://doi.org/10.1021/acs.est.0c01340)
 
 ## Abstract 
+
+<p align="center">
+  <img src="/figures/TOC.png" alt="TOC figure" width="600">
+</p>
+
 - Eutrophication has threatened water resources worldwide, yet mechanistic understanding on controls of nutrient export remains elusive. 
 - This work tests the shallow and deep hypothesis: subsurface vertical chemical contrasts regulate nitrate export patterns under different land use conditions. 
 - We synthesized data from 228 watersheds and used reactive transport modeling (500 simulations) under broad land use, climate, and geology conditions. 
