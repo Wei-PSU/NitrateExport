@@ -48,7 +48,7 @@ The 228 sites used in this work have diverse land use, geology, and climate cond
 overwhelming convergence toward the S curve with high b values in agriculture lands indicates the first-order control of land use on concentration contrasts in shallow versus deep waters and export patterns. In other words, the vertical stratification in subsurface water chemistry, often driven by human activity, modulates the observed C-Q relations.
 
 <p align="center">
-  <img src="/figures/figure 6.png" alt="Nitrate concentration under different land uses" width="700">
+  <img src="/figures/figure 6.png" alt="Nitrate concentration under different land uses" width="400">
 </p>
 
 ## Data source 
