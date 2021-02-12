@@ -12,7 +12,6 @@
 - We synthesized data from 228 watersheds and used reactive transport modeling (500 simulations) under broad land use, climate, and geology conditions. 
 - Data synthesis indicated that human perturbation has amplified chemical contrasts in shallow water (e.g., soil water) versus deep waters (e.g., groundwater), inducing primarily flushing patterns (concentrations increase with streamflow) in agriculture lands and dilution patterns (concentrations decrease with streamflow) in urban watersheds. 
 - Results revealed a quantitative relationship between export patterns and shallow-versus-deep concentration contrasts, underscoring the often-overlooked role of nutrient distribution over depth. 
-- Results challenge the commonly held perception that legacy stores in agricultural lands induce chemostasis where concentrations vary negligibly with streamflow. They suggest that nitrate concentrations from agricultural lands will escalate during large hydrological events, which can exacerbate nutrient export problems as flooding events intensify in the future climate.
 
 ## Figure
 - Nitrate concentration under different land uses
